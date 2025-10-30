@@ -1,1 +1,1 @@
-# fer_manager
+# basic GUI file manager written in C
